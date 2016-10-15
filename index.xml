@@ -22,7 +22,7 @@
 
 &lt;p&gt;Slack 就是取代 Facebook 的聊天群組，個別把慕哲人社用到的獨立出來。所以它的介面功用很基本，就是代替 Facebook Messenger 或 Line 做對話、溝通用。&lt;/p&gt;
 
-&lt;p&gt;好處有下列：&lt;/p&gt;
+&lt;h2 id=&#34;用-slack-的好處&#34;&gt;用 Slack 的好處&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Android 和 iphone 都有 app ，而且會有通知。&lt;/li&gt;
@@ -30,12 +30,18 @@
 &lt;li&gt;有夜間不打擾功能，不易影響休息&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;要做這些調整：&lt;/p&gt;
+&lt;h2 id=&#34;工作方式要做的調整&#34;&gt;工作方式要做的調整&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;組織內討論正事儘量不要在 FB ，訊息來源會搞混&lt;/li&gt;
-&lt;li&gt;檔案放在上面有限制，請不要放太大檔案，大檔可傳到 Drive 把連結貼上來。&lt;/li&gt;
+&lt;li&gt;組織內討論正事請不要在 FB ，會讓大家分不清訊息來源&lt;/li&gt;
+&lt;li&gt;檔案放在上面有限制，請不要放太大檔案，大檔可傳到 Drive 再把連結貼上來。&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;登入&#34;&gt;登入&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://philoship.slack.com&#34;&gt;網頁板連結在這裡。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;不過如果你還沒註冊，Slack 是採邀請制，要由裡面的成員邀請你才能使用。&lt;/p&gt;
 
 &lt;h1 id=&#34;基本介紹&#34;&gt;基本介紹&lt;/h1&gt;
 
@@ -45,8 +51,9 @@
 
 &lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/surface2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;如果是有三欄的狀況
-&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/surface3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;有三欄的狀況&#34;&gt;有三欄的狀況&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/surface3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;看板說明&#34;&gt;看板說明&lt;/h2&gt;
 
@@ -63,7 +70,7 @@
 
 &lt;h1 id=&#34;進階用法&#34;&gt;進階用法&lt;/h1&gt;
 
-&lt;h2 id=&#34;關掉不需要的通知&#34;&gt;關掉不需要的通知&lt;/h2&gt;
+&lt;h2 id=&#34;關掉不需要通知的板板&#34;&gt;關掉不需要通知的板板&lt;/h2&gt;
 
 &lt;p&gt;進到你不用收取通知的板，點「設定小齒輪」-&amp;gt;「Notification Preference &amp;hellip;」
 &lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/notify-setting1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -71,22 +78,33 @@
 &lt;p&gt;會出現以下這個畫面
 &lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/notify-setting2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;簡單設法就勾「Mute this channel 」就好了&lt;/li&gt;
-&lt;li&gt;分別可以設電腦跟手機的設定，其中三個選項分別是：
+&lt;p&gt;勾「Mute this channel 」就好了&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;任何訊息都通知&lt;/li&gt;
-&lt;li&gt;有人標註你的時候通知&lt;/li&gt;
-&lt;li&gt;完全不通知&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;P.S. 分別可以設電腦跟手機的設定，其中三個選項分別是：
+  1. 任何訊息都通知
+  2. 有人標註你的時候通知
+  3. 完全不通知&lt;/p&gt;
 
 &lt;h2 id=&#34;搜尋過去訊息&#34;&gt;搜尋過去訊息&lt;/h2&gt;
 
 &lt;p&gt;有個搜尋框在右上角&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;修改夜間不打擾設定&#34;&gt;修改夜間不打擾設定&lt;/h2&gt;
+
+&lt;p&gt;先找到喜好設定，左上角的名稱「慕哲人社」按下去有個選單，其中有 Preference
+&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/preference.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;進來設定第一頁，Do not disturb 可展開，這邊會設定幾點到幾點叫 Slack 有訊息不要通知&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/dont-disturb.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;常見問題-不定期更新&#34;&gt;常見問題（不定期更新）&lt;/h1&gt;
+
+&lt;h2 id=&#34;ios版-iphone-ipad-不會跳出通知&#34;&gt;iOS版（iPhone, iPad）不會跳出通知&lt;/h2&gt;
+
+&lt;p&gt;到設定-&amp;gt; notification ，會問你是否接受讓 Slack 跳出通知，按「好」之後就有通知了。&lt;/p&gt;
 </description>
     </item>
     
