@@ -15,7 +15,78 @@
       <pubDate>Sat, 15 Oct 2016 13:39:54 +0800</pubDate>
       
       <guid>https://junsuwhy.github.io/philoship-slack-info/main/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;為什麼要用-slack&#34;&gt;為什麼要用 Slack&lt;/h1&gt;
+
+&lt;p&gt;Slack 就是取代 Facebook 的聊天群組，個別把慕哲人社用到的獨立出來。所以它的介面功用很基本，就是代替 Facebook Messenger 或 Line 做對話、溝通用。&lt;/p&gt;
+
+&lt;p&gt;好處有下列：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Android 和 iphone 都有 app ，而且會有通知。&lt;/li&gt;
+&lt;li&gt;群組分明、清楚，不像在 Facebook 聊天群組雜亂無章&lt;/li&gt;
+&lt;li&gt;有夜間不打擾功能，不易影響休息&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;要做這些調整：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;組織內討論正事儘量不要在 FB ，訊息來源會搞混&lt;/li&gt;
+&lt;li&gt;檔案放在上面有限制，請不要放太大檔案，大檔可傳到 Drive 把連結貼上來。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;基本介紹&#34;&gt;基本介紹&lt;/h1&gt;
+
+&lt;h2 id=&#34;畫面說明&#34;&gt;畫面說明&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/surface1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/surface2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果是有三欄的狀況
+&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/surface3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;看板說明&#34;&gt;看板說明&lt;/h2&gt;
+
+&lt;p&gt;看板名是用「1個數字」+「 可能有底線 」 + 「看板名稱組成」。
+數字是行政分組的分類，數字後有底線表示該組下的主要群組，無底線表示子群組。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;不分組，如 1_general 就示讓大家討論任何不分組的事情&lt;/li&gt;
+&lt;li&gt;課程組，包括 2_course （課程組綜合討論）、2labor_workshop（勞動工作坊）&lt;/li&gt;
+&lt;li&gt;活動組，如 3_activity 、 3welcomenew2016 （給迎新用的）&lt;/li&gt;
+&lt;li&gt;行政組，如 4_admin&lt;/li&gt;
+&lt;li&gt;宣傳組，如 5_advocate&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;進階用法&#34;&gt;進階用法&lt;/h1&gt;
+
+&lt;h2 id=&#34;關掉不需要的通知&#34;&gt;關掉不需要的通知&lt;/h2&gt;
+
+&lt;p&gt;進到你不用收取通知的板，點「設定小齒輪」-&amp;gt;「Notification Preference &amp;hellip;」
+&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/notify-setting1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;會出現以下這個畫面
+&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/notify-setting2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;簡單設法就勾「Mute this channel 」就好了&lt;/li&gt;
+&lt;li&gt;分別可以設電腦跟手機的設定，其中三個選項分別是：
+
+&lt;ol&gt;
+&lt;li&gt;任何訊息都通知&lt;/li&gt;
+&lt;li&gt;有人標註你的時候通知&lt;/li&gt;
+&lt;li&gt;完全不通知&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;搜尋過去訊息&#34;&gt;搜尋過去訊息&lt;/h2&gt;
+
+&lt;p&gt;有個搜尋框在右上角&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6217074/webimg/20161015/search.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
